@@ -1,0 +1,28 @@
+https://aws.amazon.com/ebs/?ebs-whats-new.sort-by=item.additionalFields.postDateTime&ebs-whats-new.sort-order=desc
+Amazon Elastic Block Store
+
+Amazon Elastic Block Store (EBS) is an easy to use, high-performance, block-storage service designed for use with Amazon Elastic Compute Cloud (EC2) for both throughput and transaction intensive workloads at any scale. A broad range of workloads, such as relational and non-relational databases, enterprise applications, containerized applications, big data analytics engines, file systems, and media workflows are widely deployed on Amazon EBS.
+
+You can choose from six different volume types to balance optimal price and performance. You can achieve single-digit-millisecond latency for high-performance database workloads such as SAP HANA or gigabyte per second throughput for large, sequential workloads such as Hadoop. You can change volume types, tune performance, or increase volume size without disrupting your critical applications, so you have cost-effective storage when you need it.
+
+Designed for mission-critical systems, EBS volumes are replicated within an Availability Zone (AZ) and can easily scale to petabytes of data. Also, you can use EBS Snapshots with automated lifecycle policies to back up your volumes in Amazon S3, while ensuring geographic protection of your data and business continuity.
+
+
+Performance for any workload
+EBS volumes are performant for your most demanding workloads, including mission-critical applications such as SAP, Oracle, and Microsoft products. SSD-backed options include a volume designed for high performance applications and a general-purpose volume that offers strong price/performance for most workloads. Customers who want to drive higher performance can attach their EBS volumes to Amazon EC2 R5b instances to get up to 60 Gbps bandwidth and 260K IOPS (input/output operations per second) of performance, the fastest block storage performance on EC2. For large, sequential workloads such as big data analytics engines, log processing, and data warehousing, customers can use HDD-backed volumes . Use Fast Snapshot Restore (FSR) to instantly receive full performance when creating an EBS volume from a snapshot.
+
+
+Highly available and durable
+Amazon EBS architecture offers reliability for mission-critical applications. EBS volumes are designed to protect against failures by replicating within the Availability Zone (AZ), offering 99.999% availability. EBS offers a high-durability volume (io2) for customers that need 99.999% durability, especially for their business-critical applications. All other EBS volumes are designed to deliver 99.8% - 99.9% durability. For simple and robust backup, use EBS Snapshots with Amazon Data Lifecycle Manager (DLM) policies to automate snapshot management. 
+
+
+Cost-effective
+
+
+
+Easy to Use
+Amazon EBS volumes are easy to create, use, encrypt, and protect. Elastic Volumes capability allows you to increase storage, tune performance up and down, and change volume types without any disruption to your workloads. EBS Snapshots allow you to easily take backups of your volumes for geographic protection of your data. Data Lifecycle Manager (DLM) is an easy-to-use tool for automating snapshot management without any additional overhead or cost.
+
+
+Virtually unlimited scale
+Amazon EBS enables you to increase storage without any disruption to your critical workloads, build applications that require as little as a single GB of storage, or scale up to petabytes of data — all in just a few clicks. Snapshots can be used to quickly restore new volumes across a region's Availability Zones, enabling rapid scale.

@@ -1,0 +1,62 @@
+AWS Support -> Get expert guidance and assistance achieving your objectives
+
+AWS Support provides a mix of tools and technology, people, and programs designed to proactively help you optimize performance, lower costs, and innovate faster. We save time for your team by helping you to move faster in the cloud and focus on your core business. We are determined to make our customers successful on their cloud journey and address requests that range from answering best practices questions, guidance on configuration, all the way to break-fix and problem resolution.
+
+On behalf of our customers, we are focused on solving some of the toughest challenges that hold you back in your cloud journey. Sometimes that means helping you troubleshoot an issue, but more often, it involves "looking around corners" to find ways for you to better utilize AWS services, answer best practices questions, and provide guidance on configuration. We focus on helping you achieve the outcomes you need to make your business successful. It is our approach to Support that sets AWS apart.
+
+
+Benefits
+
+1. Move faster with AWS -> Have a question or need help? Just ask - our cloud support engineers and subject matter experts are here with answers and guidance. They are looking around the corner to identify new ways AWS can help your business.
+
+2.Automate management of your environment  :
+WS Support provides tools such as AWS Personal Health Dashboard and AWS Trusted Advisor to help you keep your environment running optimally
+
+3.Focus on what matters
+
+4.Manage and mitigate risks
+WS Support can help you maintain the strictest security standards and proactively alert you to issues that require attention
+
+4.Highly-trained engineers, large network of subject-matter experts
+At AWS, we hire smart Cloud Support Engineers that are well versed in DevOps technologies, automation, infrastructure orchestration, configuration management and continuous integration, and who are not constrained by how “things are usually done”. 
+
+6.Engineers empowered to help you achieve your goals
+no need of escalation
+--------------------------------------------------------------------------------------------------------------------
+AWS Developer Support
+
+
+We recommend AWS Developer Support if you are testing or doing early development on AWS and want the ability to get technical support during business hours as well as general architectural guidance as you build and test.
+
+In addition to enhanced technical support and architectural guidance, Developer Support provides access to documentation and forums, AWS Trusted Advisor, and AWS Personal Health Dashboard.
+
+benifits 
+
+1. Enhanced technical support
+Business hours email access to Cloud Support engineers. You can have one primary contact that can open an unlimited amount of cases. Response times for general guidance is less than 24 business hours* and system impaired is less than 12 business hours*.
+
+2. Architectural support
+General guidance on how to use AWS products, features, and services together. AWS Solutions Architects leverage the AWS Well-Architected framework when providing recommendations.
+
+3.stomer service and communities
+24x7 access to customer service, documentation, whitepapers, and support forums.
+
+
+Self-service support
+
+AWS Trusted Advisor
+
+AWS Trusted Advisor provides you real time guidance to help you provision your resources following AWS best practices. Trusted Advisor checks help optimize your AWS infrastructure, increase security and performance, reduce your overall costs, and monitor service limits. Seven core checks are included with Developer Support.
+
+--------------------------------------------------------------------------------------------------------------------
+AWS Business Support
+
+We recommend AWS Business Support if you have production workloads on AWS and want 24x7 access to technical support and architectural guidance in the context of your specific use-cases.
+
+In addition to enhanced technical support and architectural guidance, Business Support provides access to third-party software support, documentation and forums, AWS Trusted Advisor, AWS Personal Health Dashboard, AWS Support API, and launch and event planning.
+
+--------------------------------------------------------------------------------------------------------------------
+AWS Enterprise Support
+
+AWS Enterprise Support provides you with concierge-like service where the main focus is helping you achieve your outcomes and find success in the cloud.
+With Enterprise Support, you get 24x7 technical support from high-quality engineers, tools and technology to automatically manage health of your environment, consultative architectural guidance delivered in the context of your applications and use-cases, and a designated Technical Account Manager (TAM) to coordinate access to proactive / preventative programs and AWS subject matter experts. AWS Enterprise Support is recommended if you have business and/or mission critical workloads in AWS.

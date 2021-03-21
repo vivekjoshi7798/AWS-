@@ -1,0 +1,65 @@
+https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/
+AWS Trusted Advisor
+
+AWS Trusted Advisor provides you real time guidance to help you provision your resources following AWS best practices. Trusted Advisor checks help optimize your AWS infrastructure, increase security and performance, reduce your overall costs, and monitor service limits. Seven core checks are included with Developer Support.
+
+AWS Trusted Advisor offers a rich set of best practice checks and recommendations across five categories: cost optimization, security, fault tolerance, performance, and service limits.
+
+Cost optimization
+-> See how you can save money on AWS by eliminating unused and idle resources or making commitments to reserved capacity.
+
+1. Amazon EC2 Reserved Instances optimization
+2. Idle load balancers
+3. Unassociated elastic IP addresses
+4. Amazon RDS idle DB instances
+5. Amazon Route 53 latency resource record sets
+6. Amazon EC2 Reserved Instance lease expiration
+7. Underutilized Amazon Redshift clusters
+8. Savings Plan
+9. Amazon ElastiCache Reserved Node optimization
+11.Amazon Redshift Reserved Node optimization
+12.Amazon Relational Database Service (RDS) Reserved Instance optimization
+13.Amazon Elasticsearch Reserved Instance optimization
+
+Security
+Improve the security of your application by closing gaps, enabling various AWS security features, and examining your permissions.
+
+1. Security groups - Specific ports unrestricted (free)
+Checks security groups for rules that allow unrestricted access (0.0.0.0/0) to specific ports
+
+2. Security groups - Unrestricted access
+Checks security groups for rules that allow unrestricted access to a resource. Unrestricted access increases opportunities for malicious activity (hacking, denial-of-service attacks, loss of data).
+
+3.AWS IAM use (free)
+Checks for your use of AWS Identity and Access Management (IAM). You can use IAM to create users, groups, and roles in AWS, and you can use permissions to control access to AWS resources.
+
+4.Multi-factor authentication on root account (free)
+Checks the root account and warns if multi-factor authentication (MFA) is not enabled. For increased security, we recommend that you protect your account by using MFA, which requires a user to enter a unique authentication code from their MFA hardware or virtual device when interacting with the AWS console and associated websites.
+
+5. Amazon RDS security group access risk
+Checks security group configurations for Amazon Relational Database Service (Amazon RDS) and warns when a security group rule might grant overly permissive access to your database. Recommended configuration for any security group rule is to allow access from specific Amazon Elastic Compute Cloud (Amazon EC2) security groups or from a specific IP address.
+
+
+6.AWS Cloudtrail logging
+logging system
+
+7.Amazon Route 53 and SPF resource record sets
+8.ELB listener security
+9. ELB security groups
+10.Amazon CloudFront SSL certificate on the origin server
+
+
+
+Performance
+Improve the performance of your service by checking your service limits, ensuring you take advantage of provisioned throughput, and monitoring for overutilized instances.
+
+
+1.High utilization Amazon EC2 instances
+2.Amazon EBS provisioned IOPS (SSD) volume attachment configuration
+3.Large number of rules in an EC2 security group
+4.Large number of EC2 security group rules applied to an instance
+5.Amazon Route 53 alias resource record sets
+6.Overutilized Amazon EBS magnetic volumes
+7.Amazon CloudFront content delivery optimization
+8.Amazon CloudFront header forwarding and cache hit ratio
+9.Amazon EC2 to Amazon EBS throughput optimization
