@@ -1,2 +1,12 @@
+https://medium.com/awesome-cloud/aws-difference-between-cloudwatch-and-cloudtrail-16a486f8bc95#:~:text=CloudWatch%20Logs%20reports%20on%20application,made%20in%20your%20AWS%20account.
+
+https://aws.amazon.com/cloudtrail/
+
 AWS CloudTrail
 Track user activity and API usage
+
+
+AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. With CloudTrail, you can log, continuously monitor, and retain account activity related to actions across your AWS infrastructure. CloudTrail provides event history of your AWS account activity, including actions taken through the AWS Management Console, AWS SDKs, command line tools, and other AWS services. This event history simplifies security analysis, resource change tracking, and troubleshooting. In addition, you can use CloudTrail to detect unusual activity in your AWS accounts. These capabilities help simplify operational analysis and troubleshooting.
+
+
+Simplified compliance

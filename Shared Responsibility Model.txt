@@ -1,0 +1,6 @@
+https://aws.amazon.com/compliance/shared-responsibility-model/
+Shared Responsibility Model
+
+
+Overview
+Security and Compliance is a shared responsibility between AWS and the customer
